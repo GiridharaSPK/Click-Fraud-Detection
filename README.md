@@ -7,3 +7,5 @@ Used machine learning and deep learning techniques to classify each click
 Accuracy up to 98%
 
 https://www.youtube.com/watch?v=lpSsPU5Dxwo
+
+https://leadingindia.ai/projectdetails/3
